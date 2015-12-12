@@ -48,7 +48,19 @@ body{
 .container-fluid button{
 	margin-top: 10px;
 	width: 100%;
+	font-weight: bold;
+	color: #1CC64F;
+	background: #222;
+	border: 2px solid #1CC64F;
+	
 }
+.container-fluid button:hover{
+	color: #222;
+	background: #1CC64F;
+	border: 2px solid #1CC64F;
+}
+
+
 footer{
 	color: #666;
 	background: #C3BBBB;
