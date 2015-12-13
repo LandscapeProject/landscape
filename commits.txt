@@ -1,0 +1,11 @@
+commit ba288435b82f48063cc3ea74e98314128ce319c5
+Author: izzat <izzat1029@hotmail.com>
+Date:   Sat Dec 12 00:40:21 2015 -0500
+
+    Se cambio los estilos del botton
+
+commit 439e0c902a813a540156941cb39d4b477db3e58a
+Author: izzat <izzat1029@hotmail.com>
+Date:   Sat Dec 12 00:26:41 2015 -0500
+
+    Iniciamos

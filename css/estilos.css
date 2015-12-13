@@ -21,6 +21,7 @@ body{
 	padding: 5px;
 	font-family: 'Pacifico', cursive;
 	margin-top: 5px;
+	margin-bottom: 20px;
 }
 .portada .fondo{
 	background: #C3BBBB;
@@ -47,19 +48,25 @@ body{
 }
 .container-fluid button{
 	margin-top: 10px;
-	width: 100%;
+	width: 90%;
+	position: relative;
+	left: 23px;
 	font-weight: bold;
 	color: #1CC64F;
 	background: #222;
 	border: 2px solid #1CC64F;
-	
 }
 .container-fluid button:hover{
 	color: #222;
 	background: #1CC64F;
 	border: 2px solid #1CC64F;
 }
-
+.btn{
+	transition: 0.3s;
+}
+.btn:hover{
+	transform: scale(1.1);
+}
 
 footer{
 	color: #666;
