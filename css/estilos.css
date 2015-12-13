@@ -45,6 +45,10 @@ body{
 .container-fluid img{
 	width: 100%;
 	height: 300px;
+	transition: 0.2s;
+}
+.container-fluid img:hover{
+   transform: scale(.9);
 }
 .container-fluid p{
   color: #8c8c8c;
